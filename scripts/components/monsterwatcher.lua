@@ -11,7 +11,6 @@ local function AnnounceForBoss(bossName)
 end
 
 local MonsterWatcher = Class(function(self, inst)
-	self.inst = inst
 	self.warningTimeForDeerclops = -1
     self.warningTimeForBearger = -1
     self.warningTimeForHounds = -1

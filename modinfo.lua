@@ -24,7 +24,7 @@ configuration_options =
 			{description = "Default", data = 0},
 			{description = "In a Day", data = 1},
 		},
-		default = 1,
+		default = 0,
 	},
     {
 		name = "OPTION_BEARGER_WARNING",
@@ -35,7 +35,7 @@ configuration_options =
 			{description = "Default", data = 0},
 			{description = "In a Day", data = 1},
 		},
-		default = 1,
+		default = 0,
 	},
     {
 		name = "OPTION_HOUNDS_WARNING",
