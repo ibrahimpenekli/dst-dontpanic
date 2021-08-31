@@ -22,7 +22,7 @@ local MonsterWatcher = Class(function(self, inst)
 	self.BEARGER_TIMERNAME = "bearger_timetospawn"
 	self.MAX_HOUNDS_ATTACK_DELAY = TUNING.TOTAL_DAY_TIME * 3
 
-	self.inst:StartUpdatingComponent(self)
+	inst:StartUpdatingComponent(self)
 end)
 
 function MonsterWatcher:GetDeerclopsWarningTime()
