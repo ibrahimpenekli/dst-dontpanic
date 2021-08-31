@@ -1,6 +1,6 @@
 # Don't Panic
 
-![Preview](readme/preview.png)
+![Preview](readme_preview.png)
 
 Alerts players by text against season boss and hound/worm attacks.
 
