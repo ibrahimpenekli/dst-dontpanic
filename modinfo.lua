@@ -13,6 +13,7 @@ Options:
 - Default: Alerts only if monster is growling
 - In a day: Alerts both before a day and when monster is growling
 
+On Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2589904748
 On GitHub: https://github.com/ibrahimpenekli/dst-dontpanic
 ]]
 author = "H.Ibrahim Penekli (ibrahimpenekli)"
